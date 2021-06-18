@@ -1,0 +1,19 @@
+#menu li
+{
+    display: inline;
+    padding: 20px;
+    text-decoration: none;
+}
+
+#menu li a
+{
+    text-decoration: none;
+    color: darkmagenta;
+    font-size: 20px;
+}
+
+/*quando o mouse estiver em cima do link, este muda de cor*/
+#menu li a:hover
+{
+    color:darkolivegreen;
+}
